@@ -4,11 +4,11 @@
     <property name="created">2020-10-26T16:55:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-11-25T13:58:49</property>
+    <property name="modified">2021-12-13T12:09:24</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
@@ -400,7 +400,6 @@
       <value>
         <option name="FOREGROUND" value="88c0d0" />
         <option name="EFFECT_COLOR" value="88c0d0" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
