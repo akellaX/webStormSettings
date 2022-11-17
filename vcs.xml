@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/kombuchamp/filtering-table-test-assignment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com/msasg/ContentServices/_git/msnews-experiences" />
+          <option name="userName" value="msasg" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
