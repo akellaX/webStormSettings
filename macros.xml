@@ -1,0 +1,32 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="format and save">
+      <shortuct text="alt L" />
+      <action id="FindNext" />
+      <typing text-keycode="83:0;68:0">sd</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="SearchEverywhere" />
+      <action id="SearchEverywhere" />
+      <action id="SearchEverywhere" />
+      <shortuct text="ESCAPE" />
+      <action id="RunAnything" />
+      <action id="RunAnything" />
+      <action id="RunAnything" />
+      <action id="RunAnything" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <typing text-keycode="76:0">l</typing>
+      <action id="EditorBackSpace" />
+      <action id="Find" />
+      <shortuct text="control F" />
+      <shortuct text="control F" />
+      <shortuct text="control F" />
+    </macro>
+  </component>
+</application>
